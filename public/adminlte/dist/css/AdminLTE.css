@@ -889,7 +889,7 @@ a:focus {
 .control-sidebar-dark .nav-tabs.control-sidebar-tabs > li.active > a:hover,
 .control-sidebar-dark .nav-tabs.control-sidebar-tabs > li.active > a:focus,
 .control-sidebar-dark .nav-tabs.control-sidebar-tabs > li.active > a:active {
-  background: #222d32;
+  background: ##222d32;
   color: #fff;
 }
 .control-sidebar-dark .control-sidebar-heading,
@@ -2867,8 +2867,8 @@ table.text-center th {
   bottom: 0;
   height: 250px;
   width: 100%;
-  background: #222d32;
-  color: #fff;
+  background: #fff;
+  color: #222d32;
   overflow: auto;
 }
 .contacts-list > li {
